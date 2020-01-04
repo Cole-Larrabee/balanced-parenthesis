@@ -1,5 +1,5 @@
 # balanced-parenthesis
-Take home challenge job interview
+Take home job interview challenge
 
 Problem - Determine whether or not parenthesis match in the proper order from inside to outside. 
 The parenthesis included are {} () []. Text can be included on the string to be analyzed.
